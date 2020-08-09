@@ -1,0 +1,8 @@
+*.pdf
+servidor/generador_de_mazos.py
+servidor/__pycache__/
+servidor/sprites/
+servidor/.vscode/
+cliente/prueba.py
+cliente/__pycache__/
+cliente/.vscode/

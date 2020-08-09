@@ -1,0 +1,13 @@
+{
+    "card_y": 440,
+    "card_width": 70,
+    "card_height": 131,
+    "deck_y_top": 126,
+    "deck_y_base": 410,
+    "deck_x_base": 853,
+    "deck_x_top": 1024,
+    "width_espectate": 300,
+    "height_espectate": 150,
+    "width_color_dialog": 300,
+    "height_color_dialog": 300
+}

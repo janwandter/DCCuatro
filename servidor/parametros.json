@@ -1,0 +1,11 @@
+{
+    "port": 8816,
+    "host": "localhost",
+    "jugadores": 3,
+    "cartas_iniciales": 5,
+    "path_reverso": ["sprites", "simple", "reverso.png"],
+    "path_reverso_izq": ["my_sprites", "reverso_izq.png"],
+    "path_reverso_der": ["my_sprites", "reverso_der.png"],
+    "path_reverso_up": ["my_sprites", "reverso_up.png"],
+    "shout_due_cards": 4
+}
